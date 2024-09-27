@@ -24,6 +24,9 @@
 
 ----
 * [ITALIAN_NOTES](ITALIAN_NOTES/README.md)
+    * [Teoria_dell'informazione](ITALIAN_NOTES/Teoria_dell'informazione/README.md)
+        * [Syllabus](ITALIAN_NOTES/Teoria_dell'informazione/Syllabus.md)
+        * [Introduzione](ITALIAN_NOTES/Teoria_dell'informazione/Introduzione.md)
     * [Basi](ITALIAN_NOTES/Basi/README.md)
         * [DBMS](ITALIAN_NOTES/Basi/DBMS.md)
         * [Record](ITALIAN_NOTES/Basi/Record.md)
@@ -45,3 +48,7 @@
         * [Materiale_di_studio](ITALIAN_NOTES/Intelligenza_artificiale/Materiale_di_studio.md)
         * [Syllabus](ITALIAN_NOTES/Intelligenza_artificiale/Syllabus.md)
         * [Introduzione](ITALIAN_NOTES/Intelligenza_artificiale/Introduzione.md)
+    * [Reti_dei_calcolatori](ITALIAN_NOTES/Reti_dei_calcolatori/README.md)
+        * [Materiale_per_reti](ITALIAN_NOTES/Reti_dei_calcolatori/Materiale_per_reti.md)
+        * [Syllabus](ITALIAN_NOTES/Reti_dei_calcolatori/Syllabus.md)
+        * [Introduzione](ITALIAN_NOTES/Reti_dei_calcolatori/Introduzione.md)

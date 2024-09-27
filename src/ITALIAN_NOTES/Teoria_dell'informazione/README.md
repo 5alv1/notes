@@ -1,0 +1,2 @@
+# Italian Notes
+These are not my notes, it's mainly stuff that was supposed to be in [this repo](https://github.com/5alv1/network-anno-accademico-2023-2024/tree/master) but that I'm migrating in here in order to have an easy access in the web, this is also the same reason the name convention is not the same in this part of the tree.
