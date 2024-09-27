@@ -41,3 +41,7 @@
         * [SQL-concetti-base](ITALIAN_NOTES/Basi/SQL-concetti-base.md)
         * [NORMALIZZAZIONE](ITALIAN_NOTES/Basi/NORMALIZZAZIONE.md)
         * [DBMS-alternative](ITALIAN_NOTES/Basi/DBMS-alternative.md)
+    * [Intelligenza_artificiale](ITALIAN_NOTES/Intelligenza_artificiale/README.md)
+        * [Materiale_di_studio](ITALIAN_NOTES/Intelligenza_artificiale/Materiale_di_studio.md)
+        * [Syllabus](ITALIAN_NOTES/Intelligenza_artificiale/Syllabus.md)
+        * [Introduzione](ITALIAN_NOTES/Intelligenza_artificiale/Introduzione.md)
