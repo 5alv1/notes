@@ -11,3 +11,7 @@ title = "7h3 n0t4t10n 15 54v3d"
 #use as mdbook preprocessor
 #[preprocessor.auto-gen-summary]
 #first-line-as-link-text = true # indicate mdbook to make the first line(default the file name) of markdown file as the link text in 
+
+[output.html]
+mathjax-support = true
+
