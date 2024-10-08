@@ -3,7 +3,7 @@ authors = ["5alv1.py", "Osconadi", "Yurimiva"]
 language = "en"
 multilingual = false
 src = "src"
-title = "7h3 n0t4t10n 15 54v3d"
+title = "7H3 N074710N 15 54V3D"
 
 #[build]
 #create-missing = false
@@ -14,4 +14,10 @@ title = "7h3 n0t4t10n 15 54v3d"
 
 [output.html]
 mathjax-support = true
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
+
+[preprocessor]
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
 
